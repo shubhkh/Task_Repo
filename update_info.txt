@@ -14,3 +14,6 @@ remote branch : exist on the github
     --> git branch {check the branch}
     --> git push -u origin main  {push the code on git repository}
     
+
+5] 
+    --> git push origin feactures2 {add to github repository}
