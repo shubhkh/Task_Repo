@@ -1,0 +1,1 @@
+#  Code with Plindrom number
